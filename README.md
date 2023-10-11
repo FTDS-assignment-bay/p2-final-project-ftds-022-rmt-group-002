@@ -3,7 +3,7 @@
 # **Gold Seeker**
 ![header img](/images/header.jpg)
 ## Introduction
-Introducing **"Gold Seeker"** - Your ultimate companion for making informed gold purchasing decisions! Using historical gold price data, our machine learning recommendation system predicts the lowest gold prices for the next 3 months and recommends three e-commerce stores offering gold at prices that are close to the predicted values. Don't miss out on the best gold deals; let GoldBargainFinder be your guide to finding affordable gold.
+Introducing **"Gold Seeker"** - Your ultimate companion for making informed gold purchasing decisions! Using historical gold price data, our machine learning recommendation system predicts the lowest gold prices for the next 3 months and recommends three e-commerce stores offering gold at prices that are close to the predicted values. Don't miss out on the best gold deals; let Gold Seeker be your guide to finding affordable gold.
 
 ## Problem Background
 Investing in gold has become one of the popular and considered safe investment options in recent years. However, the decision to buy gold is often based on its volatile prices, and investors often struggle to determine when and where they should buy gold. Fluctuating gold prices can leave consumers confused and unsure about when to make gold purchases, potentially resulting in missed profit opportunities or suboptimal purchases.
