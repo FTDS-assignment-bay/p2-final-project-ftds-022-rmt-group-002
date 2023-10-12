@@ -33,6 +33,8 @@ On the 'Product Recommendation' page, you'll discover various products recommend
 By following these steps, users will be able to navigate your application and utilize its features seamlessly.
 
 ## Conclusion
+With "Gold Seeker," users can easily predict gold prices for the next 3 months and receive recommendations from trusted e-commerce stores, helping them make informed investment decisions and save money. The business impact includes increased user satisfaction, potential business partnerships, and data-driven decision-making that can drive the success and growth of the application.
+
 ## Further Recommendations
 ## Meet our team
 * Syechrifanka Yoffi Adrian | [LinkedIn](https://www.linkedin.com/in/yoffieraka/) | [Github](https://github.com/yoffieraka) 
@@ -41,3 +43,5 @@ By following these steps, users will be able to navigate your application and ut
 * Mujahid | [LinkedIn](https://www.linkedin.com/in/mujahid-mujahid-10b1641b1/) | [Github](https://github.com/mujahxd)
 
 ## References
+https://github.com/TA-Lib/ta-lib-python
+https://mybinder.org/v2/gh/bokeh/tutorial/main?filepath=notebooks%2F01_introduction.ipynb
