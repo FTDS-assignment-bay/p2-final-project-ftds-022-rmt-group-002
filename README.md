@@ -1,6 +1,6 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=12319385&assignment_repo_type=AssignmentRepo)
 
-# **Gold Seeker**
+
 ![header img](/images/Gold%20Seeker.png)
 ## Introduction
 Introducing **"Gold Seeker"** - Your ultimate companion for making informed gold purchasing decisions! Using historical gold price data, our machine learning recommendation system predicts the lowest gold prices for the next 3 months and recommends three e-commerce stores offering gold at prices that are close to the predicted values. Don't miss out on the best gold deals; let Gold Seeker be your guide to finding affordable gold.
@@ -19,6 +19,20 @@ Investing in gold has become one of the popular and considered safe investment o
 With this application, we hope to provide a comprehensive solution for those interested in investing in or buying gold by delivering reliable price predictions and recommendations for the best stores.
 
 ## Demo
+1. To get started, visit the provided [link](https://huggingface.co/spaces/HaritsGH/gold-seeker) to access the application.
+2. Once you're inside the application, you'll notice that you have several page options to explore. To find out when the gold price is projected to be the lowest in the next 3 months, please select the 'Price Prediction' page.
+
+![price prediction img](/images/price-prediction-page.png)
+
+Now, you'll see a forecast of gold prices for the next 3 months. The application will provide you with information about the dates when gold prices are projected to be the lowest.
+3. Next, if you're interested in product recommendations, you can switch to the 'Product Recommendation' page.
+
+![product recommendation](/images/product-recommendation.png)
+
+On the 'Product Recommendation' page, you'll discover various products recommended based on your preferences and profile. The application will assist you in finding products that align with your needs and interests.
+
+By following these steps, users will be able to navigate your application and utilize its features seamlessly.
+
 ## Conclusion
 ## Further Recommendations
 ## Meet our team
