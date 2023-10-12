@@ -1,7 +1,7 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=12319385&assignment_repo_type=AssignmentRepo)
 
 
-![header img](/images/Gold%20Seeker_v2.png)
+![header img](/images/Gold%20Seeker.png)
 ## Introduction
 Introducing **"Gold Seeker"** - Your ultimate companion for making informed gold purchasing decisions! Using historical gold price data, our machine learning recommendation system predicts the lowest gold prices for the next 3 months and recommends three e-commerce stores offering gold at prices that are close to the predicted values. Don't miss out on the best gold deals; let Gold Seeker be your guide to finding affordable gold.
 
