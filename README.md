@@ -36,6 +36,12 @@ By following these steps, users will be able to navigate your application and ut
 With "Gold Seeker," users can easily predict gold prices for the next 3 months and receive recommendations from trusted e-commerce stores, helping them make informed investment decisions and save money. The business impact includes increased user satisfaction, potential business partnerships, and data-driven decision-making that can drive the success and growth of the application.
 
 ## Further Recommendations
+1. **Advanced Scheduling Utilization:** In addition to predicting gold prices and recommending products, consider integrating advanced scheduling. This would allow users to set up notifications or alerts when gold prices reach levels they are interested in or when the recommended e-commerce stores have special offers. This will enhance user engagement and provide them with more control over their investment decisions.
+
+2. **Utilization of Advanced Modeling:** Consider developing advanced models such as Deep Learning or Time Series Forecasting to improve the accuracy of gold price predictions. These advanced models can provide more sophisticated and detailed results, which can boost user confidence in the predictions provided by the application.
+
+3. **Exploration of Additional Metrics:** In addition to the established metrics, explore additional metrics to measure the application's success. Additional metrics could include User Retention, Conversion Rate from Recommendations to Purchases, or NPS (Net Promoter Score) to measure user satisfaction. These additional metrics can provide deeper insights into how the application impacts users and the business.
+
 ## Meet our team
 * Syechrifanka Yoffi Adrian | [LinkedIn](https://www.linkedin.com/in/yoffieraka/) | [Github](https://github.com/yoffieraka) 
 * Harits Ghiffari Hanif | [LinkedIn](https://www.linkedin.com/in/harits-ghiffari-hanif-44538020a/) | [Github](https://github.com/HaritsGH)
@@ -44,4 +50,5 @@ With "Gold Seeker," users can easily predict gold prices for the next 3 months a
 
 ## References
 https://github.com/TA-Lib/ta-lib-python <br>
-https://mybinder.org/v2/gh/bokeh/tutorial/main?filepath=notebooks%2F01_introduction.ipynb
+https://mybinder.org/v2/gh/bokeh/tutorial/main?filepath=notebooks%2F01_introduction.ipynb <br>
+https://pypi.org/project/schedule/
