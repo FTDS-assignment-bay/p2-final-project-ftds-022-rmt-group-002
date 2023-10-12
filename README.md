@@ -43,5 +43,5 @@ With "Gold Seeker," users can easily predict gold prices for the next 3 months a
 * Mujahid | [LinkedIn](https://www.linkedin.com/in/mujahid-mujahid-10b1641b1/) | [Github](https://github.com/mujahxd)
 
 ## References
-https://github.com/TA-Lib/ta-lib-python
+https://github.com/TA-Lib/ta-lib-python <br>
 https://mybinder.org/v2/gh/bokeh/tutorial/main?filepath=notebooks%2F01_introduction.ipynb
