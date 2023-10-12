@@ -19,7 +19,7 @@ def run_web_scraping_tasks():
     webscrap_hargaemas()
     clean_hargaemas()
 
-schedule.every().day.at("15:01").do(run_web_scraping_tasks)
+schedule.every().day.at("14:42").do(run_web_scraping_tasks)
 
 while True:
     schedule.run_pending()

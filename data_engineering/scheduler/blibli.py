@@ -141,10 +141,11 @@ def clean_blibli():
     
     if os.path.exists(latest_file_name):
         old_data = pd.read_csv(latest_file_name)
+        old_data = old_data.drop_duplicates()
         old_data.to_csv(early_file_name, index=False)
         new_data = pd.read_csv(early_file_name)
         new_data = pd.concat([old_data, data])
-        new_data = data.drop_duplicates()
+        new_data = new_data.drop_duplicates()
         new_data.to_csv(latest_file_name, index=False)
     else:
         data.to_csv(latest_file_name, index=False)
