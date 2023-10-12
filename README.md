@@ -23,12 +23,11 @@ With this application, we hope to provide a comprehensive solution for those int
 2. Once you're inside the application, you'll notice that you have several page options to explore. To find out when the gold price is projected to be the lowest in the next 3 months, please select the 'Price Prediction' page.
 
 ![price prediction img](/images/price-prediction-page.png)
-
 Now, you'll see a forecast of gold prices for the next 3 months. The application will provide you with information about the dates when gold prices are projected to be the lowest.
+
 3. Next, if you're interested in product recommendations, you can switch to the 'Product Recommendation' page.
 
 ![product recommendation](/images/product-recommendation.png)
-
 On the 'Product Recommendation' page, you'll discover various products recommended based on your preferences and profile. The application will assist you in finding products that align with your needs and interests.
 
 By following these steps, users will be able to navigate your application and utilize its features seamlessly.
