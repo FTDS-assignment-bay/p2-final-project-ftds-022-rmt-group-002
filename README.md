@@ -40,4 +40,4 @@ By following these steps, users will be able to navigate your application and ut
 * Rohmat Wahyu H | [LinkedIn](https://www.linkedin.com/in/rohmat-wahyu-7016a8291/) | [Github](https://github.com/BukanBocilBiasa)
 * Mujahid | [LinkedIn](https://www.linkedin.com/in/mujahid-mujahid-10b1641b1/) | [Github](https://github.com/mujahxd)
 
-## Refferences
+## References
